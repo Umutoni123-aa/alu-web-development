@@ -14,3 +14,5 @@ This project is part of the ALU Web Development curriculum. The objective is to 
 - FAQ
 - Footer
 > Note: This project was built with pure HTML and is fully W3C-validated.
+
+
